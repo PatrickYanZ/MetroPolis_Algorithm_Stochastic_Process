@@ -1,0 +1,2 @@
+# MetroPolis_Algorithm_Stochastic_Process
+Monte Carlo Markov Chain (MCMC) is a method used in statistics and statistical physics to extract sequences of random samples from a probability distribution when direct sampling is difficult. We implement the metropolis algorithm to the travelling random walk and reduce the average waiting time for travelers. Prove the Metropolis algorithm and generalize python model to mimic travelers travelling within Canada.
